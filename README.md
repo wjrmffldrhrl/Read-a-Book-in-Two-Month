@@ -12,11 +12,13 @@
 이에 기간을 두 달로 연장하고 대략 한 권의 책을 읽는 데 걸리는 시간인 6~7주를 제외하고 남는 기간에는 독후감 및 정리를 하기로 하였다.
 
 # Book list
+## 취업 전
 - [자바의 정석 3판](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788994492032)
 - [처음 시작하는 파이썬](http://www.yes24.com/Product/Goods/29289816)
 - [파이썬으로 웹 크롤러 만들기](http://www.yes24.com/Product/Goods/71047040)
 - [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929?pid=123487&cosemkid=go14913760296100498&gclid=CjwKCAiA-_L9BRBQEiwA-bm5fs5912uUEobnimR1EYGe48Pc5RUUM0M9uwBlCaQi9k43aRTw_JuiPhoCkWMQAvD_BwE)
-- [이펙티브 자바 3/E](http://www.yes24.com/Product/Goods/65551284)
 - [Android Studio를 활용한 안드로이드 프로그래밍 4판](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B2647242054)
+## 취업 후
+- [이펙티브 자바 3/E](http://www.yes24.com/Product/Goods/65551284)
 - [Clean code](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9788966260959)
 - [Test-Driven Development: By Example](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261024&orderClick=LAG&Kc=)
