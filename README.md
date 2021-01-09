@@ -22,6 +22,7 @@
 |Clean Code|깔끔한 코드를 작성하는 방법에 대한 정리|완독, 다시 읽어볼 예정|
 |Test-Driven Developemnt: By Example|TDD 방법과 예시|완독, 다시 읽어볼 예정|
 |Clean Architecture|프로젝트 구조를 구성하는 방법과 예시|읽는 중|
+|파이썬으로 배우는 응용 텍스트 분석|언어 인식 데이터 제품 개발을 위한 머신러닝, 자연어 처리 기법|읽는 중|
 |Code|컴퓨터와 대화하는 코드의 원리||
 |Programming Pearls 2/E|알고리즘||
 |자바 최적화|자바 성능 향상법 및 고급 개발서||
