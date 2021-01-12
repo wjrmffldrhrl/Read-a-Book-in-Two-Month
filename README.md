@@ -23,7 +23,7 @@
 |[Test-Driven Developemnt: By Example](./Test-Driven_Development_By_example/README.md)|TDD 방법과 예시|완독, 다시 읽어볼 예정|
 |[Clean Architecture](./Clean_Architecture/README.md)|프로젝트 구조를 구성하는 방법과 예시|읽는 중|
 |[파이썬으로 배우는 응용 텍스트 분석](./파이썬으로_배우는_응용_텍스트_분석/README.md)|언어 인식 데이터 제품 개발을 위한 머신러닝, 자연어 처리 기법|읽는 중|
-|[Code|컴퓨터와 대화하는 코드의 원리](./Code/README.md)||
+|[Code](./Code/README.md)|컴퓨터와 대화하는 코드의 원리||
 |[Programming Pearls 2/E](./Programming_pearls_2E/README.md)|알고리즘||
 |[자바 최적화](./자바_최적화/README.md)|자바 성능 향상법 및 고급 개발서||
 |[파이썬 데이터 분석 입문](./파이썬_데이터_분석_입문/README.md)|실무에서 사용되는 파이썬 데이터 분석 기법||
