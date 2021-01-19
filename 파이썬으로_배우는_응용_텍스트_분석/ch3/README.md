@@ -69,4 +69,5 @@ HTMLCorpusReader에는 문서 분해를 수행하는데 필요한 모든 메서�
 
 ## 중간 전처리 및 저장
 
-우리는 말뭉치 리더를 감싸고 문서의 상태 저장 토큰화 및 품사 태깅을 관리할 새로운 클래스인 Preprocessor를 정의하는 일부터 한다. 객체들은 원시 말뭉치의 견로인 corpus, 후처리 말뭉치를 저장할 디렉터리 경로인 target으로 초기화된다. `fileids()` 메서드는 HTMLCorpus Reader 객체의 fileid에 대한 편리한 엑세스를 제공하고, `abspath()`는 각 원시 말뭉치 fileid에 대한 대상 fileid의 절대 경로를 반환한다.
+우리는 말뭉치 리더를 감싸고 문서의 상태 저장 토큰화 및 품사 태깅을 관리할 새로운 클래스인 Preprocessor를 정의하는 일부터 한다. 객체들은 원시 말뭉치의 견로인 corpus, 후처리 말뭉치를 저장할 디렉터리 경로인 target으로 초기화된다. `fileids()` 메서드는 HTMLCorpus Reader 객체의 fileid에 대한 편리한 엑세스를 제공하고, `abspath()`는 각 원시 말뭉치 fileid에 대한 대상 fileid의 절대 경로를 반환한다.  
+
