@@ -201,7 +201,7 @@ Exception, RuntimeException, Throwable, Error는 직접 재사용 하지 말자.
 
 #### 자주 재사용되는 예외
 - `IllegalArgumentException`
-  - 허용하지 않는 값이 인수루 건네졌을 때
+  - 허용하지 않는 값이 인수로 건네졌을 때
 - `IllegalStateException`
   - 객체가 메서드를 수행하기에 적절하지 않은 상태일 때
 - `NullPointerException`
