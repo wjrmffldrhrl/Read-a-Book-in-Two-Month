@@ -21,7 +21,7 @@
 |[이펙티브 자바 3/E](./이펙티브_자바_3E/README.md)|자바 바이블 2|완독 후 Item 정리 중|
 |[Clean Code](./Clean_Code/README.md)|깔끔한 코드를 작성하는 방법에 대한 정리|완독, 다시 읽어볼 예정|
 |[Test-Driven Developemnt: By Example](./Test-Driven_Development_By_example/README.md)|TDD 방법과 예시|완독, 다시 읽어볼 예정|
-|[Clean Architecture](./Clean_Architecture/README.md)|프로젝트 구조를 구성하는 방법과 예시|읽는 중|
+|[Clean Architecture](./Clean_Architecture/README.md)|프로젝트 구조를 구성하는 방법과 예시|완독|
 |[파이썬으로 배우는 응용 텍스트 분석](./파이썬으로_배우는_응용_텍스트_분석/README.md)|언어 인식 데이터 제품 개발을 위한 머신러닝, 자연어 처리 기법|읽는 중|
 |[Code](./Code/README.md)|컴퓨터와 대화하는 코드의 원리||
 |[Programming Pearls 2/E](./Programming_pearls_2E/README.md)|알고리즘||
