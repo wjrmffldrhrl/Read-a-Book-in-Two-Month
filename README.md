@@ -30,4 +30,4 @@
 |[밑바닥부터 시작하는 딥러닝 2](./밑바닥부터_시작하는_딥러닝_2/README.md)|자연어 처리 입문서||
 |[러닝 스파크](./Learning_Spark/README.md)|분산 처리|프로젝트와 함께 진행중|
 |[빅데이터를 지탱하는 기술](./빅데이터를_지탱하는_기술/README.md)|데이터 엔지니어링|완독|
-|[Fluent Python](./Fluent_Python/README.md))|전문가를 위한 파이썬, 파이썬 바이블2|읽는 중|
+|[Fluent Python](./Fluent_Python/README.md)|전문가를 위한 파이썬, 파이썬 바이블2|읽는 중|
